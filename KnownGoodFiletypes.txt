@@ -1,0 +1,6 @@
+.pptx
+.xlsx
+.docx
+.pdf
+.ev3
+.wlmp
